@@ -11481,7 +11481,7 @@ html {
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
     font-size: 3rem;
-    line-height: 2.5rem;
+    line-height: 3.5rem;
   }
 }
 
@@ -11498,4 +11498,5 @@ html {
 
 .subt{
   color: #212529;
+  font-size: 18px;
 }
